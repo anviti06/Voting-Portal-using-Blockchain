@@ -1,4 +1,4 @@
-# Voting-Portal-using-Blockchain
+# Smart Contract For Voting Portal - Blockchain
 
  Commands to be followed to run the files:
 - node compile.js
